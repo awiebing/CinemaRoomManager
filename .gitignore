@@ -1,0 +1,42 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Break and continue. Branching/Bus tour/out/
+/Topics/Break and continue. Branching/Bus tour/out/production/classes/
+/Topics/Break and continue. Branching/Printing even numbers with a skip condition/out/
+/Topics/Break and continue. Branching/Printing even numbers with a skip condition/out/production/classes/
+/Topics/Comparing values. Relational operators/Groundhogs at a party/out/
+/Topics/Comparing values. Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/
+/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Iterating over arrays/Sum of even numbers in a comma-separated list/out/
+/Topics/Iterating over arrays/Sum of even numbers in a comma-separated list/out/production/classes/
+/Topics/Multiple conditions  switch/From string to a number/out/
+/Topics/Multiple conditions  switch/From string to a number/out/production/classes/
+/Topics/Multiple conditions  switch/Test learners/out/
+/Topics/Multiple conditions  switch/Test learners/out/production/classes/
+/Topics/Processing strings/Cutting out the middle of a string/out/
+/Topics/Processing strings/Cutting out the middle of a string/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
